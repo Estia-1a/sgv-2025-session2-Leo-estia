@@ -20,3 +20,5 @@ span:first-child {
 span:last-child {
   /* style du dernier span d'un élément, par exemple la date dans la éléments de la liste formation */
 }
+
+h1{color: #ff0000;}
